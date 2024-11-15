@@ -12,8 +12,9 @@ Festkörpern -> Längswellen ([[Longitudinalwellen]]) und Querwellen ([[Transver
 
 ---
 *Zentralverzeichnisse:*
-[[Kein Zentralverzeichnis]]
+[[Keine Zentralverzeichnise]]
 
 *Literaturverweise:*
 
-*Tags:*
+*Schlagwörter:*
+[[Keine Schlagwörter]]

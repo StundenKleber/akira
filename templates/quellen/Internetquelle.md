@@ -1,5 +1,5 @@
 ---
-tags: literatur/internetquelle
+tags: literatur/internetquelle, status/entwurf
 url: 
 jahr: 
 autor:
@@ -20,5 +20,5 @@ await tp.file.move(`literatur/internetquellen/${tp.file.title}`)
 *Literaturnotizen:*
 [[Keine Literaturnotiz]]
 
-*Tags:*
-[[Literatur]]
+*Schlagwörter:*
+[[Literatur]], [[Keine Schlagwörter]]

@@ -18,5 +18,5 @@ seiten:
 *Literaturnotizen:*
 [[Branch Management]]
 
-*Tags:*
-[[Literatur]]
+*Schlagwörter:*
+[[Literatur]], [[Keine Schlagwörter]]

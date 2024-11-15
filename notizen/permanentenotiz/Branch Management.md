@@ -27,10 +27,10 @@ Wie finde ich raus welcher [[Branch]] wann in den aktuellen [[Branch]] gemergt w
 
 ---
 *Zentralverzeichnisse:*
-[[Kein Zentralverzeichnis]]
+[[Keine Zentralverzeichnise]]
 
 *Literaturverweise:*
 [[Keine Literaturnotiz]]
 
-*Tags:*
+*Schlagwörter:*
 [[Git]], [[Branch]], [[Management]]

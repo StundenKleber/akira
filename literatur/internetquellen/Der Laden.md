@@ -27,6 +27,6 @@ seiten:
 *Literaturnotizen:*
 [[Keine Literaturnotiz]]
 
-*Tags:*
-[[Literatur]]
+*Schlagwörter:*
+[[Literatur]], [[Keine Schlagwörter]]
 

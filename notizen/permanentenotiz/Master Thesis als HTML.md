@@ -11,8 +11,9 @@ tags: notiztyp/permanentenotiz, status/entwurf
 
 ---
 *Zentralverzeichnisse:*
-[[Kein Zentralverzeichnis]]
+[[Keine Zentralverzeichnise]]
 
 *Literaturverweise:*
 
-*Tags:*
+*Schlagwörter:*
+[[Keine Schlagwörter]]

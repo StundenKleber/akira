@@ -14,8 +14,9 @@ await tp.file.move(`notizen/permanentenotiz/${tp.file.title}`)
 
 ---
 *Zentralverzeichnisse:*
-[[Kein Zentralverzeichnis]]
+[[Keine Zentralverzeichnise]]
 
 *Literaturverweise:*
 
-*Tags:*
+*Schlagwörter:*
+[[Keine Schlagwörter]]

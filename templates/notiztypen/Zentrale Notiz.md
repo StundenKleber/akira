@@ -9,6 +9,7 @@ await tp.file.move(`notizen/zentralenotizen/${tp.file.title}`)
 %>
 
 ---
-*Tags:*
-
 *Zentrale Notizen:*
+
+*Schlagwörter:*
+[[Keine Schlagwörter]]

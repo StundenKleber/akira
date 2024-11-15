@@ -10,3 +10,7 @@ await tp.file.move(`notizen/literaturnotizen/${tp.file.title}`)
 
 ---
 *Quelle:*
+[[Keine Quelle]]
+
+*Schlagwörter:*
+[[Keine Schlagwörter]]

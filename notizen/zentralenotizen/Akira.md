@@ -7,6 +7,7 @@ tags: notiztyp/zentralenotiz, status/entwurf
 - [[Cheet Sheets]]
 
 ---
-*Tags:*
-
 *Zentrale Notizen:*
+
+*Schlagwörter:*
+[[Keine Schlagwörter]]

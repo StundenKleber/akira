@@ -4,26 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3b7a4aeaff0201e7",
+        "id": "1bfb1e6b582c0f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6a717ffd7e9deae7",
+            "id": "76c20ddf9cbc7595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notizen/permanentenotiz/Branch Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Branch Management"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"hello\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,11 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notizen/permanentenotiz/Branch Management.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Branch Management"
+              "title": "Outline"
             }
           },
           {
@@ -122,11 +114,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "92304ab22f1e42c7",
@@ -169,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian"
+              "title": "Backlinks"
             }
           },
           {
@@ -188,12 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notizen/permanentenotiz/Branch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Branch Management"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,8 +197,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -224,40 +215,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
-      "markdown-importer:Open format converter": false,
-      "graph:Open graph view": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "6a717ffd7e9deae7",
+  "active": "649a0978545b176d",
   "lastOpenFiles": [
-    "literatur/internetquellen/Git-Branching-Branch-Management.md",
-    "notizen/permanentenotiz/Branch Management.md",
-    "templates/notiztypen/Permanente Notiz.md",
-    "literatur/internetquellen/Der Laden.md",
+    "Keine Zentralverzeichnise.md",
+    "Keine Schlagwörter.md",
+    "templates/Schlagwort.md",
+    "templates/notiztypen/Zentrale Notiz.md",
     "notizen/zentralenotizen/Akira.md",
     "notizen/zentralenotizen/Cheet Sheets.md",
-    "Literaturverzeichnis.md",
-    "templates/notiztypen/Literaturnotiz.md",
-    "templates/notiztypen/Fliegende Notiz.md",
-    "templates/notiztypen/Zentrale Notiz.md",
+    "notizen/permanentenotiz/Schallwellen.md",
     "notizen/permanentenotiz/Obsidan-Cheat Sheet.md",
+    "notizen/permanentenotiz/Master Thesis als HTML.md",
+    "notizen/permanentenotiz/Branch Management.md",
+    "literatur/internetquellen/Git-Branching-Branch-Management.md",
+    "literatur/internetquellen/Der Laden.md",
+    "templates/notiztypen/Fliegende Notiz.md",
+    "templates/notiztypen/Literaturnotiz.md",
+    "templates/notiztypen/Permanente Notiz.md",
+    "templates/quellen/Internetquelle.md",
+    "schlagworte/Git.md",
+    "schlagworte/Branch.md",
+    "schlagworte/Management.md",
+    "schlagworte",
+    "202411152109.md",
+    "Home.canvas",
+    "Literaturverzeichnis Beispiele.md",
+    "Literaturverzeichnis.md",
     "master.md",
     "testico.md",
     "notizen/literaturnotizen/Git Branching und Branch-Management.md",
     "hello.md",
-    "literatur/internetquellen/Git Branching - Branch-Management.md",
-    "notizen/permanentenotiz/Git - Cheet Sheet.md",
-    "Literaturverzeichnis Beispiele.md",
     "notizen/zentralenotizen",
-    "Alpha.md",
-    "notizen/permanentenotiz/Master Thesis als HTML.md",
-    "notizen/permanentenotiz/Schallwellen.md",
     "notizen/permanentenotiz",
-    "templates/quellen/Internetquelle.md",
-    "templates/commands/Woop.md",
-    "templates/commands/What.md",
-    "templates/commands/Move.md",
-    "templates/commands/Copy.md",
     "notizen/literaturnotizen",
     "templates/commands",
     "literatur/internetquellen",
@@ -265,8 +257,6 @@
     "tmp",
     "notizen/literaturnotiz",
     "notizen",
-    "Untitled.canvas",
-    "templates/notiztypen",
     "Test Canvas live.canvas"
   ]
 }

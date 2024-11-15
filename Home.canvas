@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7fe538998ea3f853","x":0,"y":0,"width":138,"height":50,"color":"2","type":"file","file":"notizen/zentralenotizen/Akira.md"},
+		{"id":"7f1bc7fe2754b4ef","x":-5,"y":394,"width":225,"height":50,"color":"3","type":"file","file":"notizen/zentralenotizen/Cheet Sheets.md"}
+	],
+	"edges":[
+		{"id":"b8fa9c4c5d661148","fromNode":"7fe538998ea3f853","fromSide":"bottom","toNode":"7f1bc7fe2754b4ef","toSide":"top"}
+	]
+}

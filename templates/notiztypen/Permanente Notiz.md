@@ -6,11 +6,11 @@ tags: notiztyp/permanentenotiz, status/entwurf
 <% 
 await tp.file.move(`notizen/permanentenotiz/${tp.file.title}`)
 %>
-**Fragestellung**
+## Fragestellung
 
-**Inhalt**
+## Titel
 
-**Gedanken/Reflexion**
+## Gedanken/Reflexion
 
 ---
 *Zentralverzeichnisse:*

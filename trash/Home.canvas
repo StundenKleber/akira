@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"7fe538998ea3f853","type":"file","file":"trash/notizen/zentralenotizen/Akira.md","x":0,"y":0,"width":138,"height":50,"color":"2"},
-		{"id":"7f1bc7fe2754b4ef","type":"file","file":"trash/notizen/zentralenotizen/Cheet Sheets.md","x":-63,"y":380,"width":265,"height":50,"color":"3"}
-	],
-	"edges":[
-		{"id":"b8fa9c4c5d661148","fromNode":"7fe538998ea3f853","fromSide":"bottom","toNode":"7f1bc7fe2754b4ef","toSide":"top"}
-	]
-}

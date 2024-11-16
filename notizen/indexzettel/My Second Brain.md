@@ -1,22 +1,20 @@
-<%*
-const topic = await tp.system.prompt("Titel des Indexzettels oder Bereichs")
-await tp.file.move(`notizen/indexzettel/${topic}`)
--%>
 
 ---
-title: Indexzettel - <% topic %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Indexzettel - My Second Brain
+timestamp: 2024-11-16 18-23-24
 tags: indexzettel, status/entwurf
 
 ---
 
 
-**Thema:** <% topic %>  
+**Thema:** My Second Brain  
 
 **Zusammenfassung:**  
 - Beschreibung und Struktur des Themas.
 
-**Wichtige Themen, Projekten und Notizen:**  
+**Wichtige Themen, Projekte und Notizen:**  
+- [[Master Thesis - IT Management]]
+- 
 - [[[[Themenzettel|Verlinkung zu Themenzetteln]]]], [[Projektzettel|Projektzetteln]] und [[Notizzettel]] für schnellen Zugriff.
 
 **Wichtige Literatur:**  

@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4efc0d93bdcff3",
+        "id": "17a0008c42431888",
         "type": "tabs",
         "children": [
           {
-            "id": "38d871cad13bcb62",
+            "id": "fe81b06107fcd12e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Indexzettel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Indexzettel"
-            }
-          },
-          {
-            "id": "cdc90fb677f2c593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "23f341a188c9a49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Themenzettel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Themenzettel"
-            }
-          },
-          {
-            "id": "13739663b9d8e6c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Projektzettel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projektzettel"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -217,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -276,7 +224,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cdc90fb677f2c593",
+  "active": "649a0978545b176d",
   "lastOpenFiles": [
     "templates/Indexzettel.md",
     "Untitled.md",

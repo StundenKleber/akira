@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "a33129610918a6a5",
+        "id": "0f4efc0d93bdcff3",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba8e0cac292918e",
+            "id": "38d871cad13bcb62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der kleine Laden.md",
+                "file": "templates/Indexzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der kleine Laden"
+              "title": "Indexzettel"
             }
           },
           {
-            "id": "847c14e3b3443897",
+            "id": "cdc90fb677f2c593",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "23f341a188c9a49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Themenzettel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Themenzettel"
+            }
+          },
+          {
+            "id": "13739663b9d8e6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Projektzettel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projektzettel"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -45,7 +81,7 @@
       {
         "id": "dee9c1275df0bad0",
         "type": "tabs",
-        "dimension": 42.93527803099362,
+        "dimension": 56.156716417910445,
         "children": [
           {
             "id": "649a0978545b176d",
@@ -65,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Projekt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +127,7 @@
       {
         "id": "df35d4072e6613ff",
         "type": "tabs",
-        "dimension": 57.06472196900638,
+        "dimension": 43.843283582089555,
         "children": [
           {
             "id": "129ec33c58a9b4d7",
@@ -113,14 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der kleine Laden.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Der kleine Laden"
+              "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der kleine Laden.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Der kleine Laden"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -241,45 +276,45 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0ba8e0cac292918e",
+  "active": "cdc90fb677f2c593",
   "lastOpenFiles": [
+    "templates/Indexzettel.md",
+    "Untitled.md",
+    "templates/Quellen-Notiz.md",
+    "templates/Projektzettel.md",
+    "templates/Notizzettel.md",
+    "templates/Literaturzettel.md",
+    "templates/Themenzettel.md",
+    "notizen/literaturzettel/hello.md",
+    "trash/Der kleine Laden.md",
+    "notizen/literaturzettel",
+    "trash/templates/notiztypen/Zentrale Notiz.md",
+    "trash/templates/notiztypen/ChatGPT Konverstation.md",
+    "notizen/literatur notizen/Literaturzettel-Der laden.md",
+    "notizen/literatur notizen",
+    "notizen",
+    "notizen/literatur notizen/Untitled.md",
+    "trash/templates/notiztypen/Literaturnotiz.md",
+    "Untitled 1.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "templates",
+    "trash/Untitled.md",
+    "trash",
+    "trash/Keine Zentralverzeichnise.md",
     "calender/2024-11-27 Bring.md",
     "calender/2024-11-28 hlasdf.md",
-    "Der kleine Laden.md",
-    "calender/2024-11-17 Huxleys.md",
-    "gesamtdokument.md",
-    "calender",
-    "Untitled.md",
-    "notizen/literaturnotizen/Unterschied Ton, Klang und Geräusch.md",
-    "notizen/permanentenotiz/Ton.md",
-    "notizen/permanentenotiz/Frequenz.md",
-    "notizen/permanentenotiz/Tonintervall.md",
-    "templates/notiztypen/Permanente Notiz.md",
-    "notizen/permanentenotiz/Klang.md",
-    "notizen/zentralenotizen/Musik.md",
-    "notizen/zentralenotizen/Überblick.md",
-    "notizen/permanentenotiz/Master Thesis als HTML.md",
-    "notizen/permanentenotiz/Obsidan-Cheat Sheet.md",
-    "notizen/permanentenotiz/Schallwellen.md",
-    "literatur/internetquellen/Der Laden.md",
-    "Akustik.md",
-    "literatur/internetquellen/Obsidian Dataview.md",
-    "templates/quellen/Internetquelle.md",
-    "literatur/internetquellen/Laermorama - Akustik, Wissen.md",
-    "notizen/literaturnotizen",
-    "GptConversations/GPT 2024-11-16 03-11-43.md",
-    "GptConversations",
-    "templates/notiztypen/ChatGPT Konverstation.md",
-    "notizen/fliegende/~Html 2 Master Thesis docx.md",
-    "notizen/permanentenotiz/Branch Management.md",
-    "templates/fom",
+    "trash/calender/2024-11-17 Huxleys.md",
+    "trash/gesamtdokument.md",
+    "trash/calender",
+    "trash/notizen/literaturnotizen",
+    "trash/GptConversations",
+    "trash/templates/fom",
     "~$samtdokument.docx",
-    "gesamtdokument.docx",
-    "~$ster Thesis.docx",
-    "Master Thesis.docx",
-    "~$anch Management.docx",
-    "Branch Management.docx",
-    "Home.canvas",
+    "trash/Home.canvas",
     "Test Canvas live.canvas"
   ]
 }

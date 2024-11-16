@@ -1,12 +1,11 @@
 ---
-titel: <% `${tp.file.title}` %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-MM-ss") %>
+titel: Frequenz
+timestamp: 2024-11-16 13-11-42
 tags: notiztyp/permanentenotiz, status/entwurf
 aliases:
+  - Frequenzen
 ---
-<% 
-await tp.file.move(`notizen/permanentenotiz/${tp.file.title}`)
-%>
+
 ## Fragestellung
 
 ## Titel

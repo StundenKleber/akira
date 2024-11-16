@@ -1,7 +1,7 @@
 ---
 titel: ~Html 2 Master Thesis docx
 timestamp: 2024-11-15 23-11-02
-tags: notiztyp/fliegend, status,entwurf
+tags: notiztyp/fliegend, status/entwurf
 ---
 
 

@@ -4,37 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "e58710182951e3e9",
+        "id": "4e8db71beaaafb40",
         "type": "tabs",
         "children": [
           {
-            "id": "7432144e71ca72f0",
+            "id": "4afd23eb99994a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/fom/AAA.md",
+                "file": "notizen/zentralenotizen/Musik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAA"
+              "title": "Musik"
             }
           },
           {
-            "id": "00bbc2a92bb8920c",
+            "id": "5d2f812a79798603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der kleine Laden.md",
+                "file": "notizen/permanentenotiz/Ton.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der kleine Laden"
+              "title": "Ton"
+            }
+          },
+          {
+            "id": "b2d1c3d010a5d167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notizen/literaturnotizen/Unterschied Ton, Klang und Geräusch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unterschied Ton, Klang und Geräusch"
             }
           }
         ],
@@ -119,27 +134,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der kleine Laden.md"
+                "file": "notizen/permanentenotiz/Ton.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Der kleine Laden"
-            }
-          },
-          {
-            "id": "ae42049b1a12338e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outline of Ton"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,6 +154,7 @@
       {
         "id": "432900580334c1a8",
         "type": "tabs",
+        "dimension": 46.85230024213075,
         "children": [
           {
             "id": "289dc26a6718640b",
@@ -172,13 +175,27 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "ae42049b1a12338e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7d97672db40f531b",
         "type": "tabs",
+        "dimension": 53.14769975786925,
         "children": [
           {
             "id": "7fcf826896d586c9",
@@ -186,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der kleine Laden.md",
+                "file": "notizen/permanentenotiz/Ton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Der kleine Laden"
+              "title": "Backlinks for Ton"
             }
           },
           {
@@ -205,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Der kleine Laden.md",
+                "file": "notizen/permanentenotiz/Ton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Der kleine Laden"
+              "title": "Outgoing links from Ton"
             }
           },
           {
@@ -227,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,44 +261,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00bbc2a92bb8920c",
+  "active": "5d2f812a79798603",
   "lastOpenFiles": [
-    "templates/fom/AAA.md",
-    "Der kleine Laden.md",
-    "templates/quellen/Monographie.md",
+    "notizen/literaturnotizen/Unterschied Ton, Klang und Geräusch.md",
+    "notizen/permanentenotiz/Frequenz.md",
+    "notizen/permanentenotiz/Tonintervall.md",
+    "templates/notiztypen/Permanente Notiz.md",
+    "notizen/permanentenotiz/Ton.md",
+    "notizen/permanentenotiz/Klang.md",
+    "notizen/zentralenotizen/Musik.md",
+    "notizen/zentralenotizen/Überblick.md",
+    "notizen/permanentenotiz/Master Thesis als HTML.md",
+    "notizen/permanentenotiz/Obsidan-Cheat Sheet.md",
+    "notizen/permanentenotiz/Schallwellen.md",
+    "literatur/internetquellen/Der Laden.md",
+    "Akustik.md",
+    "literatur/internetquellen/Obsidian Dataview.md",
     "templates/quellen/Internetquelle.md",
-    "templates/fom/cmd.md",
-    "gesamtdokument.md",
-    "Keine Schlagwörter.md",
-    "Tag Cloud.md",
+    "literatur/internetquellen/Laermorama - Akustik, Wissen.md",
+    "notizen/literaturnotizen",
+    "GptConversations/GPT 2024-11-16 03-11-43.md",
+    "Der kleine Laden.md",
+    "GptConversations",
+    "templates/notiztypen/ChatGPT Konverstation.md",
+    "notizen/fliegende/~Html 2 Master Thesis docx.md",
+    "notizen/permanentenotiz/Branch Management.md",
+    "templates/fom/AAA.md",
+    "templates/quellen/Monographie.md",
+    "templates/notiztypen/Zentrale Notiz.md",
+    "templates/notiztypen/Literaturnotiz.md",
+    "templates/notiztypen/Fliegende Notiz.md",
     "templates/fom",
-    "Master Thesis.md",
     "~$samtdokument.docx",
     "gesamtdokument.docx",
     "~$ster Thesis.docx",
     "Master Thesis.docx",
-    "notizen/permanentenotiz/Branch Management.md",
     "~$anch Management.docx",
     "Branch Management.docx",
-    "literatur/internetquellen/Git-Branching-Branch-Management.md",
-    "notizen/fliegende/~Html 2 Master Thesis docx.md",
-    "notizen/zentralenotizen/Cheet Sheets.md",
-    "notizen/zentralenotizen/Akira.md",
-    "notizen/permanentenotiz/Schallwellen.md",
-    "notizen/permanentenotiz/Obsidan-Cheat Sheet.md",
-    "notizen/permanentenotiz/Master Thesis als HTML.md",
     "~$hallwelle.docx",
-    "Schallwelle.docx",
-    "notizen/fliegende",
-    "templates/notiztypen/Fliegende Notiz.md",
-    "templates/notiztypen/Literaturnotiz.md",
-    "~Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "202411152109.md",
-    "templates/Testico.md",
-    "Untitled 3.md",
-    "Untitled 7.md",
     "Home.canvas",
     "Test Canvas live.canvas"
   ]

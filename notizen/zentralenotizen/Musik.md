@@ -1,0 +1,141 @@
+---
+titel: Musik
+timestamp: 2024-11-16 03-11-50
+tags: notiztyp/zentralenotiz, status/entwurf
+---
+
+### Grundlagen
+1. **[[Ton]]** – Ein einzelner Klang mit definierter Frequenz.
+2. **Klang** – Kombination von Tönen, die zusammen eine harmonische Qualität haben.
+3. **Rhythmus** – Struktur und Timing von Klängen.
+4. **Tempo** – Geschwindigkeit eines Musikstücks.
+5. **Melodie** – Abfolge von Tönen, die zusammen eine erkennbare musikalische Linie bilden.
+6. **Harmonie** – Kombination von Tönen, die zusammen erklingen.
+7. **Takt** – Zeitstruktur der Musik, gemessen in Taktschlägen.
+8. **Taktart** – Muster der Betonungen im Takt (z.B., 4/4, 3/4).
+9. **Tonhöhe** – Wahrnehmbare Höhe oder Tiefe eines Tons.
+10. **Dynamik** – Lautstärke oder Intensität von Musik.
+11. **Tonleiter** – Abfolge von Tönen innerhalb einer Oktave.
+12. **Oktave** – Intervall zwischen einem Ton und seinem achtfach höheren oder tieferen Äquivalent.
+13. **Intervall** – Abstand zwischen zwei Tönen.
+14. **Noten** – Symbole zur Darstellung von Tönen.
+15. **Partitur** – Vollständige schriftliche Darstellung eines Musikstücks.
+16. **Phrasierung** – Art und Weise, wie musikalische Phrasen gespielt oder gesungen werden.
+### Rhythmus und Metrum
+17. **Taktstrich** – Linie, die Taktschläge trennt.
+18. **Metrum** – Betonungsmuster im Rhythmus.
+19. **Synkope** – Betonung eines normalerweise unbetonten Taktschlags.
+20. **Akkord** – Gleichzeitiges Erklingen von drei oder mehr Tönen.
+21. **Schlag** – Grundeinheit eines rhythmischen Musters.
+22. **Beat** – Grundrhythmus oder Puls eines Musikstücks.
+23. **Polyrhythmik** – Verwendung mehrerer Rhythmen gleichzeitig.
+24. **Triolen** – Drei Töne in der Zeit von zwei regulären Schlägen.
+
+### Melodie und Harmonie
+25. **Motiv** – Kurzes, charakteristisches musikalisches Thema.
+26. **Thema** – Grundmelodie eines Stücks.
+27. **Tonika** – Grundton der Tonleiter.
+28. **Dominante** – Fünfter Ton der Tonleiter.
+29. **Subdominante** – Vierter Ton der Tonleiter.
+30. **Modulation** – Wechsel der Tonart innerhalb eines Stücks.
+31. **Kadenz** – Abfolge von Akkorden, die das Ende einer Phrase markiert.
+
+### Skalen und Tonarten
+32. **Dur** – Helle, fröhliche Tonart.
+33. **Moll** – Dunkle, melancholische Tonart.
+34. **Pentatonik** – Fünftönige Tonleiter.
+35. **Chromatik** – Tonleiter, die alle zwölf Halbtöne verwendet.
+36. **Modus** – Verschiedene Arten von Tonleitern (z.B., Dorisch, Mixolydisch).
+
+### Instrumente und Klänge
+37. **Register** – Klangbereich eines Instruments oder einer Stimme.
+38. **Orchestration** – Verteilung der musikalischen Stimmen auf verschiedene Instrumente.
+39. **Klangfarbe** – Charakteristischer Klang eines Instruments oder einer Stimme.
+40. **Timbre** – Unterscheidung eines Klangs basierend auf Obertönen.
+41. **Bass** – Tiefer Frequenzbereich oder ein tiefes Instrument.
+
+### Ausdruck und Interpretation
+42. **Legato** – Gleitende Spielweise, bei der die Töne verbunden sind.
+43. **Staccato** – Kurze, abgehackte Spielweise.
+44. **Crescendo** – Allmähliche Lautstärkesteigerung.
+45. **Decrescendo** – Allmähliche Lautstärkeverringerung.
+46. **Forte** – Laut spielen.
+47. **Piano** – Leise spielen.
+
+### Struktur und Form
+48. **Form** – Aufbau eines Musikstücks (z.B., ABA, Rondo).
+49. **Refrain** – Wiederkehrender Abschnitt eines Stücks.
+50. **Strophe** – Abschnitt eines Lieds mit variierendem Text.
+51. **Sonate** – Mehrsätzige Kompositionsform.
+52. **Symphonie** – Großes Werk für Orchester, meist in mehreren Sätzen.
+53. **Suite** – Abfolge von Tänzen oder kurzen Stücken.
+54. **Oper** – Dramatisches Musikstück mit Gesang und Instrumentalbegleitung.
+55. **Konzert** – Werk für ein Soloinstrument und Orchester.
+
+### Komposition und Arrangement
+56. **Arrangement** – Bearbeitung eines Musikstücks für andere Instrumente oder Gesang.
+57. **Improvisation** – Spontanes Erfinden von Musik.
+58. **Variation** – Veränderung eines musikalischen Themas.
+59. **Kontrapunkt** – Technik der Mehrstimmigkeit.
+
+### Techniken und Effekte
+60. **Vibrato** – Schnelle Tonhöhenveränderung zur Klangverschönerung.
+61. **Glissando** – Gleiten von einem Ton zum anderen.
+62. **Arpeggio** – Akkord, bei dem die Töne nacheinander gespielt werden.
+63. **Portamento** – Gleiten zwischen zwei Tönen.
+64. **Triller** – Rascher Wechsel zwischen zwei benachbarten Tönen.
+
+### Komposition und Harmonie (Fortgeschritten)
+65. **Dissonanz** – Spannungserzeugende Kombination von Tönen.
+66. **Konsonanz** – Harmonievolle Kombination von Tönen.
+67. **Funktion** – Harmonieanalyse von Akkorden im Tonartzusammenhang.
+68. **Voicing** – Anordnung von Akkordtönen.
+
+### Aufnahmetechniken
+69. **Stereo** – Klangwiedergabe mit zwei Kanälen.
+70. **Mono** – Klangwiedergabe mit einem Kanal.
+71. **Equalizer** – Gerät zur Anpassung der Frequenzanteile eines Signals.
+72. **Reverb** – Nachhall zur Erzeugung von Raumklang.
+73. **Delay** – Verzögerungseffekt.
+
+### Genres und Stile
+74. **Klassik** – Musikstil der westlichen Tradition.
+75. **Jazz** – Improvisationsbasierter Musikstil.
+76. **Pop** – Unterhaltungsmusikstil.
+77. **Rock** – Musikstil mit E-Gitarren und Schlagzeug.
+78. **Hip-Hop** – Stil mit rhythmischem Sprechgesang.
+79. **Elektronisch** – Mit Synthesizern und digitalen Effekten erzeugte Musik.
+
+### Musikgeschichte und Theorie
+80. **Barock** – Musikstil des 17. und 18. Jahrhunderts.
+81. **Romantik** – Musikstil des 19. Jahrhunderts.
+82. **Zwölftonmusik** – Technik der atonalen Komposition.
+83. **Minimalismus** – Musikalischer Stil mit Wiederholungen einfacher Muster.
+84. **Tonale Musik** – Musik mit harmonischen Beziehungen zur Tonika.
+85. **Atonale Musik** – Musik ohne feste Tonart.
+
+### Musikalische Praxis
+86. **Ensemble** – Gruppe von Musikern, die zusammen spielen.
+87. **Dirigent** – Leitung eines Orchesters oder Chors.
+88. **Notenlesen** – Fähigkeit, Musiknotation zu verstehen.
+89. **Üben** – Wiederholung zur Verbesserung von Fähigkeiten.
+90. **Interpretation** – Persönliche Auslegung eines Musikstücks.
+
+### Musiktechnologie und Produktion
+91. **Synthesizer** – Gerät zur Klangerzeugung durch Schwingungen.
+92. **Sampler** – Gerät zur Wiedergabe und Bearbeitung von Klängen.
+93. **Loop** – Wiederholte Musikphrase.
+94. **DAW** – Digitale Audio-Workstation zur Musikproduktion.
+95. **MIDI** – Musikprotokoll zur Kommunikation zwischen Geräten.
+
+### Analyse und Kritik
+96. **Analyse** – Untersuchung der Struktur eines Musikstücks.
+97. **Musiktheorie** – Wissenschaftliche Grundlage von Musik.
+98. **Interpretation** – Künstlerische Wiedergabe und Deutung.
+99. **Kritik** – Bewertung eines Musikstücks oder Auftritts.
+100. **Ästhetik** – Philosophie der Schönheit und des Geschmacks in der Musik.
+---
+*Zentrale Notizen:*
+
+*Schlagwörter:*
+[[Keine Schlagwörter]]

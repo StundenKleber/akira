@@ -7,8 +7,8 @@ autor:
     nachname: Masterfrau
 erscheinungsjahr: 2003
 titel: Der kleine Laden
-auflage: 3
-erscheinungsort: Berlin
+auflage1: 3
+erscheinungsort1: Berlin
 dissertation: no
-literatureintrag: "Mustermann, M., Masterfrau, N. (2003): Der kleine Laden, 3. Aufl., Berlin 2003"
+literatureintrag: "ERROR, M., Masterfrau, N. (2003): Der kleine Laden, undefined. Aufl., undefined 2003"
 ---

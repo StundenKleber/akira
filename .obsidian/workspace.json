@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5989e056e32140f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beispielstrukturen/Bespiel Aufbau Master Thesis Notiz.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bespiel Aufbau Master Thesis Notiz"
-            }
-          },
-          {
-            "id": "2635a28cf67d27f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beispielstrukturen/Beispiel Seminararbeit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beispiel Seminararbeit"
-            }
-          },
-          {
             "id": "33115eaba3e7c2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beispielstrukturen/Beispiel Aufbau Master Thesis.md",
+                "file": "templates/Themenzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beispiel Aufbau Master Thesis"
+              "title": "Themenzettel"
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -66,7 +35,7 @@
       {
         "id": "dee9c1275df0bad0",
         "type": "tabs",
-        "dimension": 56.156716417910445,
+        "dimension": 44.58955223880597,
         "children": [
           {
             "id": "649a0978545b176d",
@@ -112,7 +81,7 @@
       {
         "id": "df35d4072e6613ff",
         "type": "tabs",
-        "dimension": 43.843283582089555,
+        "dimension": 18.65671641791045,
         "children": [
           {
             "id": "129ec33c58a9b4d7",
@@ -134,10 +103,76 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beispielstrukturen/Beispiel Aufbau Master Thesis.md"
+                "file": "templates/Themenzettel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Beispiel Aufbau Master Thesis"
+              "title": "Outline of Themenzettel"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a67d7aa8d0a5dfe8",
+        "type": "tabs",
+        "dimension": 36.75373134328358,
+        "children": [
+          {
+            "id": "6961b712d1771668",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "templates/Themenzettel.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#indexzettel  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#projektzettel  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#themenzettel  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42967809143425173,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Themenzettel"
             }
           }
         ]
@@ -202,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beispielstrukturen/Beispiel Aufbau Master Thesis.md",
+                "file": "templates/Themenzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beispiel Aufbau Master Thesis"
+              "title": "Backlinks for Themenzettel"
             }
           },
           {
@@ -261,40 +296,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "649a0978545b176d",
+  "active": "33115eaba3e7c2d8",
   "lastOpenFiles": [
-    "Beispielstrukturen/Beispiel Seminararbeit.md",
-    "Beispielstrukturen/Bespiel Aufbau Master Thesis Notiz.md",
-    "Beispielstrukturen",
-    "notizen/indexzettel/My Second Brain.md",
-    "Beispielstrukturen/Beispiel Aufbau Master Thesis.md",
-    "notizen/projektzettel/Master Thesis - IT Management.md",
-    "notizen/projektzettel/Klavier spielen erlernen.md",
-    "notizen/themenzettel/OLK.md",
-    "notizen/themenzettel",
-    "notizen/projektzettel",
-    "templates/Indexzettel.md",
-    "templates/Themenzettel.md",
-    "notizen/indexzettel/Persönliche Weiterentwicklung.md",
-    "notizen/indexzettel/Berufliche Entwicklung.md",
-    "notizen/indexzettel",
-    "notizen",
-    "notizen/themenzettel/Master Thesis - IT Mangement.md",
     "templates/Quellen-Notiz.md",
     "templates/Projektzettel.md",
     "templates/Notizzettel.md",
     "templates/Literaturzettel.md",
-    "notizen/literaturzettel/hello.md",
-    "trash/Der kleine Laden.md",
+    "templates/Indexzettel.md",
+    "notizen/indexzettel/(Indexzettel) My Second Brain.md",
+    "notizen/(Themenzettel) Sport und Fitness.md",
+    "notizen/(Themenzettel) Musik und Musiktheorie.md",
+    "notizen/(Projektzettel) Master Thesis - IT Management.md",
+    "notizen/(Projektzettel) Klavier spielen erlernen.md",
+    "notizen/(Projektzettel) Englisch erlernen.md",
+    "notizen/(Notizzettel) Abgrenzung der beiden Begriffe Sport und Fitness voneinander.md",
+    "notizen/[Indexzettel] Testico.md",
+    "notizen/Notizzettel-null.md",
+    "templates/Themenzettel.md",
+    "notizen/themenzettel/Sport und Fitness.md",
+    "notizen/projektzettel/Klavier spielen erlernen.md",
+    "notizen/projektzettel/Englisch erlernen.md",
+    "notizen/themenzettel/Musik und Musiktheorie.md",
+    "Beispielstrukturen/Beispiel Aufbau Master Thesis.md",
+    "Beispielstrukturen/Beispiel Seminararbeit.md",
+    "Beispielstrukturen/Bespiel Aufbau Master Thesis Notiz.md",
+    "Beispielstrukturen",
+    "notizen/projektzettel/Master Thesis - IT Management.md",
+    "notizen/themenzettel/OLK.md",
+    "notizen/themenzettel",
+    "notizen/projektzettel",
+    "notizen/indexzettel/Persönliche Weiterentwicklung.md",
+    "notizen/indexzettel/Berufliche Entwicklung.md",
+    "notizen/indexzettel",
+    "notizen",
     "notizen/literaturzettel",
-    "trash/templates/notiztypen/Zentrale Notiz.md",
-    "trash/templates/notiztypen/ChatGPT Konverstation.md",
-    "notizen/literatur notizen/Literaturzettel-Der laden.md",
     "notizen/literatur notizen",
-    "notizen/literatur notizen/Untitled.md",
-    "trash/templates/notiztypen/Literaturnotiz.md",
-    "Untitled 1.md",
-    "Untitled 6.md",
     "templates",
     "trash",
     "trash/calender",

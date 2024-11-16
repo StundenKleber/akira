@@ -1,18 +1,12 @@
-<%*
-const title = await tp.system.prompt("Projektname oder Fragestellung")
-const start_date = await tp.system.prompt("Startdatum")
-
-await tp.file.move(`notizen/(Projektzettel) ${title}`)
--%>
 ---
-title: Projektzettel - <% title %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Projektzettel - Englisch erlernen
+timestamp: 2024-11-16 18-58-30
 tags: projektzettel, status/entwurf
 
 ---
 
-**Projektname:** <% title %>  
-**Startdatum:** <% start_date %>  
+**Projektname:** Englisch erlernen  
+**Startdatum:** 2024-11-16  
 
 **Projektziel:**  
 - Ziel des Projekts oder der Fragestellung.

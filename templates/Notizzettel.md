@@ -1,9 +1,8 @@
 <%*
 const title = await tp.system.prompt("Titel der Notiz (z.B., Hauptidee oder Thema)")
 
-await tp.file.move(`notizen/notizzettel/${title}`)
+await tp.file.move(`notizen/8Notizzettel) ${title}`)
 -%>
-
 ---
 title: Notizzettel - <% title %>
 timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>

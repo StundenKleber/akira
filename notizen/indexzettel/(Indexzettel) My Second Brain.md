@@ -1,4 +1,3 @@
-
 ---
 title: Indexzettel - My Second Brain
 timestamp: 2024-11-16 18-23-24
@@ -10,11 +9,15 @@ tags: indexzettel, status/entwurf
 **Thema:** My Second Brain  
 
 **Zusammenfassung:**  
-- Beschreibung und Struktur des Themas.
+Das soll als Startpunkt für das Second Brain dienen und Zeigt meine großen Bereiche im Leben
 
 **Wichtige Themen, Projekte und Notizen:**  
-- [[Master Thesis - IT Management]]
-- 
+- [[(Projektzettel) Master Thesis - IT Management]]
+- [[(Projektzettel) Klavier spielen erlernen]]
+- [[(Projektzettel) Englisch erlernen]]
+- [[(Themenzettel) Musik und Musiktheorie]]
+- [[(Themenzettel) Sport und Fitness]]
+
 - [[[[Themenzettel|Verlinkung zu Themenzetteln]]]], [[Projektzettel|Projektzetteln]] und [[Notizzettel]] für schnellen Zugriff.
 
 **Wichtige Literatur:**  

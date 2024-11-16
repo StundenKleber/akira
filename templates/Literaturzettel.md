@@ -3,9 +3,8 @@ const title = await tp.system.prompt("Titel der Notiz")
 
 const source_note = await tp.system.prompt("Quellen-Notiz-Link (z.B., [[Quelle - Titel]])")
 
-await tp.file.move(`notizen/literaturzettel/${title}`)
+await tp.file.move(`notizen/(Literaturzettel) ${title}`)
 -%>
-
 ---
 title:  Literaturzettel - <% title %>
 timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>

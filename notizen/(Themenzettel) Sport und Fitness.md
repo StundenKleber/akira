@@ -1,21 +1,20 @@
-
 ---
-title: Themenzettel - OLK
-timestamp: 2024-11-16 18-32-59
+title: Themenzettel - Sport und Fitness
+timestamp: 2024-11-16 18-59-50
 tags: "themenzettel"
 
 ---
 
-**Thema:** OLK  
+**Thema:** Sport und Fitness  
 
 **Überblick:**  
-- Beschreibung des Themas und seiner Relevanz.
+- Hier geht es um die beiden Bereiche Sport und Fitness
 
 **Verwendete Literatur:**  
 - [[Verweis auf relevante Literaturzettel]]
 
 **Verlinkte Notizen:**  
-- [[Liste der relevanten Notizzettel]]
+- [[(Notizzettel) Abgrenzung der beiden Begriffe Sport und Fitness voneinander]]
 
 **Verwandte Themen:**  
 - Verweise auf andere [[Themenzettel]] oder wichtige [[Quellen]].

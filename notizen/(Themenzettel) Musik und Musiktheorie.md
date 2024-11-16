@@ -1,15 +1,11 @@
-<%*
-const title = await tp.system.prompt("Titel des Oberthemas")
-await tp.file.move(`notizen/(Themenzettel) ${title}`)
--%>
 ---
-title: Themenzettel - <% title %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Themenzettel - Musik und Musiktheorie
+timestamp: 2024-11-16 18-58-55
 tags: "themenzettel"
 
 ---
 
-**Thema:** <% title %>  
+**Thema:** Musik und Musiktheorie  
 
 **Überblick:**  
 - Beschreibung des Themas und seiner Relevanz.

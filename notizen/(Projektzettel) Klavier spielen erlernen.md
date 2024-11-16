@@ -1,12 +1,11 @@
-
 ---
-title: Projektzettel - Master Thesis - IT Management
-timestamp: 2024-11-16 18-30-53
+title: Projektzettel - Klavier spielen erlernen
+timestamp: 2024-11-16 18-57-12
 tags: projektzettel, status/entwurf
 
 ---
 
-**Projektname:** Master Thesis - IT Management  
+**Projektname:** Klavier spielen erlernen  
 **Startdatum:** 2024-11-16  
 
 **Projektziel:**  

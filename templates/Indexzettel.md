@@ -1,8 +1,7 @@
 <%*
 const topic = await tp.system.prompt("Titel des Indexzettels oder Bereichs")
-await tp.file.move(`notizen/indexzettel/${topic}`)
+await tp.file.move(`notizen/(Indexzettel) ${topic}`)
 -%>
-
 ---
 title: Indexzettel - <% topic %>
 timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>

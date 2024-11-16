@@ -4,7 +4,7 @@ author:
 erscheinungsjahr: 
 titel: <% tp.file.title %>
 auflage: 
-erschungsort: 
+erscheinungsort: 
 dissertation: no
 ---
 

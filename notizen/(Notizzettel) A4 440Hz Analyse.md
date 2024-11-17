@@ -1,20 +1,19 @@
-<%*
-const title = await tp.system.prompt("Titel der Notiz (z.B., Hauptidee oder Thema)")
-
-await tp.file.move(`notizen/(Notizzettel) ${title}`)
--%>
 ---
-title: Notizzettel - <% title %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Notizzettel - A4 440Hz Analyse
+timestamp: 2024-11-16 22-00-49
 tags: notizzettel, status/entwurf
 
 ---
 
 **Hauptgedanke:**  
-- Beschreibe den Hauptgedanken prägnant.
+- Ich möchte mit Ableton den [[Kammerton]] A4 untersuchen, der eine Frequenz von 440 Hz hat.
 
 **Details und Ausführungen:**  
-- Weiterführende Überlegungen, Argumente und Erkenntnisse.
+- In Ableton:
+	- Wavetable | Spectrum zur Visualiserung 
+	- Oktavenzählweise:
+		- Normal: A4 -> 440Hz
+		- Ableton: A3 -> 440Hz
 
 **Verwendete Literatur:**  
 - [[Leerer Verweis|Verweis auf relevante Literaturzettel]]
@@ -23,7 +22,7 @@ tags: notizzettel, status/entwurf
 - [[Leerer Verweis|Referenz auf verwandte Notizen]]
 
 **Fragen:**  
-- Offene Fragen oder Themen für weitere Recherche.
+- [[(Notizzettel) Welche Frequenzen für welche Instrumente]]
 
 
 %%

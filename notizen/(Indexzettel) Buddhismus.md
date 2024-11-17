@@ -1,25 +1,24 @@
 ---
-title: Indexzettel - My Second Brain
-timestamp: 2024-11-16 18-23-24
+title: Indexzettel - Buddhismus
+timestamp: 2024-11-17 00-22-27
 tags: indexzettel, status/entwurf
 
 ---
 
 
-**Thema:** My Second Brain  
+**Thema:** Buddhismus  
 
 **Zusammenfassung:**  
-Das soll als Startpunkt für das Second Brain dienen und Zeigt meine großen Bereiche im Leben
+Dieser Index dient als Ausgangspunkt für das weite Felde des Buddhismus.
 
-**Wichtige Themen, Projekte und Notizen:**  
-- [[(Projektzettel) Master Thesis - IT Management]]
-- [[(Projektzettel) Klavier spielen erlernen]]
-- [[(Projektzettel) Englisch erlernen]]
-- [[(Themenzettel) Musik und Musiktheorie]]
-- [[(Themenzettel) Sport und Fitness]]
-- [[(Indexzettel) Buddhismus]]
+**Wichtige Themen, Projekten und Notizen:**  
+[[(Notizzettel) Wiedergeburt im Buddhismus]]
+[[(Literaturzettel) Palikanon - Tipitaka]]
+[[(Literaturzettel) Gliederung des Tipitaka]]
 
-- [[Themenzettel|Verlinkung zu Themenzetteln]], [[Projektzettel|Projektzetteln]] und [[Notizzettel]] für schnellen Zugriff.
+**Ausarbeitung alle Suttas - Schritt für Schritt**
+[[(Indexzettel) Tipitaka]]
+
 
 **Wichtige Literatur:**  
 - Verweise auf zentrale [[Literaturzettel]] für diesen Bereich.

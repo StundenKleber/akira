@@ -22,7 +22,7 @@ Zusammengefasst könnte man sagen: Sport ist eine spezifische Form körperlicher
 - [[Verweis auf relevante Literaturzettel]]
 
 **Verlinkte Notizen:**  
-- [[Referenz auf verwandte Notizen]]
+- [[Leerer Verweis]]
 
 **Fragen:**  
 - Offene Fragen oder Themen für weitere Recherche.

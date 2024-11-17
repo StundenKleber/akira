@@ -1,28 +1,21 @@
 ---
-title: Indexzettel - My Second Brain
-timestamp: 2024-11-16 18-23-24
+title: Indexzettel - Majjhima Nikaya (Sammlung mittlerer Lehrreden)
+timestamp: 2024-11-17 03-04-49
 tags: indexzettel, status/entwurf
 
 ---
 
 
-**Thema:** My Second Brain  
+**Thema:** Majjhima Nikaya (Sammlung mittlerer Lehrreden)  
 
 **Zusammenfassung:**  
-Das soll als Startpunkt für das Second Brain dienen und Zeigt meine großen Bereiche im Leben
+- Beschreibung und Struktur des Themas.
 
-**Wichtige Themen, Projekte und Notizen:**  
-- [[(Projektzettel) Master Thesis - IT Management]]
-- [[(Projektzettel) Klavier spielen erlernen]]
-- [[(Projektzettel) Englisch erlernen]]
-- [[(Themenzettel) Musik und Musiktheorie]]
-- [[(Themenzettel) Sport und Fitness]]
-- [[(Indexzettel) Buddhismus]]
-
-- [[Themenzettel|Verlinkung zu Themenzetteln]], [[Projektzettel|Projektzetteln]] und [[Notizzettel]] für schnellen Zugriff.
+**Wichtige Themen, Projekten und Notizen:**  
+- [[[[Themenzettel|Verlinkung zu Themenzetteln]]]], [[Projektzettel|Projektzetteln]] und [[Notizzettel]] für schnellen Zugriff.
 
 **Wichtige Literatur:**  
-- Verweise auf zentrale [[Literaturzettel]] für diesen Bereich.
+- ![[(Literaturzettel) Übersicht Suttas zum Thema Meditation]]
 
 %%
 **Zweck**: Der Indexzettel ist eine Art inhaltliches Inhaltsverzeichnis für ein größeres Thema oder eine Kategorie. Er enthält Verweise auf zentrale Themenzettel und wichtige Literatur, um den Überblick über ein Gebiet zu behalten.

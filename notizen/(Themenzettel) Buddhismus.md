@@ -1,22 +1,19 @@
-<%*
-const title = await tp.system.prompt("Titel des Oberthemas")
-await tp.file.move(`notizen/(Themenzettel) ${title}`)
--%>
 ---
-title: Themenzettel - <% title %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Themenzettel - Buddhismus
+timestamp: 2024-11-17 00-01-32
 tags: "themenzettel"
 
 ---
 
-**Thema:** <% title %>  
+**Thema:** Buddhismus  
 
 **Überblick:**  
 - Beschreibung des Themas und seiner Relevanz.
 
 
 **Verwendete Literatur:**  
-- [[Leerer Verweis|Verweis auf relevante Literaturzettel]]
+- [[(Literaturzettel) Wiedergeburt im Buddhismus]]
+- [[(Literaturzettel) Die verschiedenen Daseinszustände]]
 
 **Verlinkte Notizen:**  
 - [[Leerer Verweis|Referenz auf verwandte Notizen]]

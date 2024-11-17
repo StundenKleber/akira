@@ -14,7 +14,8 @@ tags: "themenzettel"
 - [[Verweis auf relevante Literaturzettel]]
 
 **Verlinkte Notizen:**  
-- [[Liste der relevanten Notizzettel]]
+- [[(Notizzettel) A4 440Hz Analyse]]
+- [[(Notizzettel) Welche Frequenzen für welche Instrumente]]
 
 **Verwandte Themen:**  
 - Verweise auf andere [[Themenzettel]] oder wichtige [[Quellen]].

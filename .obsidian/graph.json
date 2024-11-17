@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:templates ",
   "showTags": false,
   "showAttachments": false,
@@ -8,31 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#notiztyp/zentralenotiz  ",
+      "query": "tag:#indexzettel  ",
       "color": {
         "a": 1,
-        "rgb": 15908871
+        "rgb": 15861511
       }
     },
     {
-      "query": "tag:#notiztyp/permanentenotiz  ",
+      "query": "tag:#projektzettel  ",
       "color": {
         "a": 1,
-        "rgb": 2378992
+        "rgb": 16514816
       }
     },
     {
-      "query": "tag:#schlagwort  ",
+      "query": "tag:#themenzettel  ",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 4972855
       }
     },
     {
-      "query": "file: Keine",
+      "query": "tag:#notizzettel  ",
       "color": {
         "a": 1,
-        "rgb": 10636878
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "tag:#void  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#literaturzettel  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.0000000000000004,
   "close": true
 }

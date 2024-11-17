@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9d6d7967f2e0b709","type":"file","file":"notizen/(Literaturzettel) Die verschiedenen Daseinszustände.md","x":-300,"y":-20,"width":400,"height":260},
+		{"id":"e4c941e4b179a579","type":"text","text":"","x":347,"y":645,"width":250,"height":60},
+		{"id":"a37ddc12da8a901c","type":"text","text":"## Tiere","x":-606,"y":570,"width":250,"height":60},
+		{"id":"d6c1ca3785f518da","type":"text","text":"## Menschen","x":-606,"y":670,"width":250,"height":60},
+		{"id":"8cc235cfa644dca1","type":"text","text":"## Asuras","x":-606,"y":766,"width":250,"height":60},
+		{"id":"1e7f9e6de101425f","type":"text","text":"## Deva","x":-606,"y":860,"width":250,"height":60},
+		{"id":"6811880f31f9755f","type":"text","text":"# Sechs Daseinszustände","x":-180,"y":640,"width":369,"height":60},
+		{"id":"39b08d9b88acf181","type":"text","text":"## Hungrige Geister","x":-606,"y":480,"width":250,"height":60},
+		{"id":"a5cc131e72789173","type":"text","text":"## Höllenwesen","x":-606,"y":383,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"86378b6041a6db93","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"a5cc131e72789173","toSide":"right"},
+		{"id":"6d6af3740f44c723","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"39b08d9b88acf181","toSide":"right"},
+		{"id":"ad42ab1c095f46be","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"a37ddc12da8a901c","toSide":"right"},
+		{"id":"314f1452184b7cc0","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"d6c1ca3785f518da","toSide":"right"},
+		{"id":"4fe4c3b14e1a67a0","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"8cc235cfa644dca1","toSide":"right"},
+		{"id":"7f8982b172332e69","fromNode":"6811880f31f9755f","fromSide":"left","toNode":"1e7f9e6de101425f","toSide":"right"}
+	]
+}

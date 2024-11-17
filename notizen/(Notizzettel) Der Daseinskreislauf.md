@@ -1,11 +1,6 @@
-<%*
-const title = await tp.system.prompt("Titel der Notiz (z.B., Hauptidee oder Thema)")
-
-await tp.file.move(`notizen/(Notizzettel) ${title}`)
--%>
 ---
-title: Notizzettel - <% title %>
-timestamp: <% tp.date.now("YYYY-MM-DD HH-mm-ss") %>
+title: Notizzettel - Der Daseinskreislauf
+timestamp: 2024-11-17 00-06-56
 tags: notizzettel, status/entwurf
 
 ---
